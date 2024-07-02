@@ -17,6 +17,7 @@ Please include in your PR description a note of how you tested your changes.
 ### Technical Requirements
 
 * Must follow [Charts best practices](https://helm.sh/docs/topics/chart_best_practices/)
+* Must pass our [CI checks](.github/workflows/ci.yml)
 
 Releases for the Helm Charts are not triggered automatically, the Temporal team will periodically do releases.
 
